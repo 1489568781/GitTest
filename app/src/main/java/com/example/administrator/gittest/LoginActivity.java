@@ -97,6 +97,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
     private void populateAutoComplete() {
         if (!mayRequestContacts()) {
             return;
+            //改变了注释
         }
 
         if (VERSION.SDK_INT >= 14) {

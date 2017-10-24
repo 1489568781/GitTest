@@ -3,8 +3,4 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="load_blue">#0000ff</color>
-    <color name="load_yellow">#ffbb00</color>
-    <color name="load_purple">#ff00e5</color>
-    <color name="load_red">#ff0000</color>
 </resources>

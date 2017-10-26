@@ -4,10 +4,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
 
+import com.alibaba.android.arouter.facade.annotation.Route;
+
 import model.UserInfo;
 import presenter.LoginPresenter;
 import view.LoginView;
-
+@Route(path = "/main/MainActivity")
 public class MainActivity extends AppCompatActivity implements LoginView {
 
     private LoginPresenter presenter;

@@ -9,15 +9,19 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Chatting" />
             <option value="$PROJECT_DIR$/MvpDemo" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/loginregistermodule" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Chatting" />
             <option value="$PROJECT_DIR$/MvpDemo" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/loginregistermodule" />
           </set>
         </option>
       </GradleProjectSettings>

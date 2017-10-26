@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chatting/Chatting.iml" filepath="$PROJECT_DIR$/Chatting/Chatting.iml" />
       <module fileurl="file://$PROJECT_DIR$/GitTest.iml" filepath="$PROJECT_DIR$/GitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/MvpDemo/MvpDemo.iml" filepath="$PROJECT_DIR$/MvpDemo/MvpDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginregistermodule/loginregistermodule.iml" filepath="$PROJECT_DIR$/loginregistermodule/loginregistermodule.iml" />
     </modules>
   </component>
 </project>
